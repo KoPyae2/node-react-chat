@@ -17,5 +17,4 @@ const ChatsPage = (props) => {
     </div>
   );
 };
-
 export default ChatsPage;
